@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 40px;
+}
+/* ====================
+=================== */
+.banner{
+    position:relative;
+    width: 100%;
+}
+.banner-text{
+    position:absolute;
+    top: 130px;
+    left: 20px;
+    color: white;   
+   font-size:20px;
+   width: 40%;
+}
+.ban-img{
+    width: 100%;
+    height: 562px;
+}
+.link{
+    color: black;
+    padding-right: 40px;
+}
+button{
+    background-color:rgba(0, 0, 0, 0.5);
+}
+button a{
+    color: white;
+}
+/* =========banner end========== */
+.heading-text{
+    text-align: center;
+    margin-top: 50px;
+}
+.anker{
+    padding: 10px;
+    color: black;
+}
+/* ========text end========= */
+.main-section{
+    display: flex;
+    margin-top: 10px;
+}
+.ws-image{
+    height: 100%;
+    width: 100%;
+    padding-top: 80px;
+}
+.winter-sale{
+    width: 50%;
+    height: 700px;
+}
+.winter-card{
+    width: 50%;
+    height: 700px;
+}
+.main-card{
+    display: flex;
+    height: 350px;
+}
+.main-card2{
+    display: flex;
+    height: 350px;
+}
+.card{
+    width: 50%;
+    margin: 50px 50px;
+    font-size: 15px;
+    text-align: center;
+}
+.card-image{
+    width: 100%;
+}
+/* ========main-section end=========== */
+
+
+
+.twomain-section{
+display: flex;
+}
+.mobile{
+    width: 20%;
+    height: 700px;
+}
+.main-circle{
+width: 60%;
+height: 700px;
+}
+.laptop{
+width: 20%;
+height: 700px;
+}
+.envelop{
+    width: 90%;
+    margin: 30% 5%;
+}
+.vertical{
+width: 100%;
+}
+.winter-circle{
+padding-top: 80px;
+height: 100%;
+width: 100%;
+}
+/* ===========twosection end========== */
+
+.lcd-section{
+    width:100%;
+    height: 800px;
+    background-color:rgba(0, 0, 0, 0.1);
+   
+}
+.lcd-child{
+    width: 40%;
+    margin-left: 32%;
+}
+.lcd-heading{
+     width: 100%;
+     height: 100px;
+     text-align: center;
+}
+.lcd-image{
+     width: 100%;
+     height: 600px;
+}
+.lcd-descr{
+     width: 100%;
+     height: 150px;
+     text-align: center;  
+}
+.lcd-links{
+    color: black;
+    padding: 10px;
+}
+.lcd-pic{
+    width: 100%;
+    height: 600px;
+}
+/* ======lcd end======= */
+.mobile-section{
+    width: 100%;
+    margin-top: 100px;
+}
+.home-section{
+    width: 100%;
+    margin-top: 100px;
+}
+/* =========home-section end======== */
+
+.last-section{
+    width: 100%;
+    display: flex;
+    margin-top: 60px;
+}
+.last-image{
+width: 50%;
+height: 600px;
+background-color: red;
+}
+.last-text{
+width: 50%;
+height: 600px;
+}
+.family-img{
+    width: 100%;
+    height: 100%;
+}
+.list{
+    margin-left: 50px;
+    line-height: 80px;
+    font-size: 30px;
+}
